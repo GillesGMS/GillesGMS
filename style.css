@@ -1,0 +1,98 @@
+element.style {
+}
+h1 {
+    padding: 10px;
+}
+h1 {
+    background-image: url(img/imagem3.jpg);
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+body {
+    color: black;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+h2 {
+    margin-top: 30px;
+}
+h2 {
+    border-bottom: 2px solid black
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+figure {
+    padding: 15px;
+    margin: 30px;
+}
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    unicode-bidi: isolate;
+}
+body {
+    color: black;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+#familia-pelho {
+    float: right;
+    margin: 0 0 10px 10px
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+h2 {
+    margin-top: 30px;
+}
+h2 {
+    border-bottom: 2px solid black;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+#rodape img {
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 94px;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+#rodape {
+    color: gray;
+    margin: 30px;
+    padding: 30px;
+}
