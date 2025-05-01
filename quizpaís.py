@@ -2,7 +2,7 @@ user = input("Quer iniciar o quiz?")
 if  user.lower() == "sim":
     print("Certo, vamos começar!")
     resposta = input("Qual o país que foi responsável por invadir a URSS?")
-    if resposta == "Alemanha" or resposta == "Finlândia":
+    if resposta == "Alemanha":
         print("Boa, você acertou!")
     else:
         print("Errado!")
