@@ -25,7 +25,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=photoshop,github" alt="Photoshop e GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
-  <img src="./imagem_2026-04-15_203405304-removebg-preview.png" alt="CapCut" width="48"/>
+  <img src="./https://br.pinterest.com/pin/383791199525217990/" alt="CapCut" width="48"/>
 </p>
 
 ---
