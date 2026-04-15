@@ -1,4 +1,4 @@
-# 🎨 GillesGMS aqui!
+ 🎨 GillesGMS aqui!
 ### Olá 👋 Eu sou Gilles Studart
 
 🌟 Designer e artista apaixonado por criar experiências visuais  
@@ -17,22 +17,10 @@
 
 ## 🧠 Ferramentas & Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=photoshop,canva,figma,illustrator,capcut,python,html,css,javascript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=photoshop,github" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" />
+  <img src="https://img.icons8.com/color/48/000000/capcut.png" />
 </p>
-
----
-
-## ⚡ Estatísticas do GitHub
-![GillesGMS GitHub Stats](https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GillesGMS&layout=compact&theme=radical)
-
----
-
-## 🧩 Tech Stack Criativo
-- *Design:* Photoshop, Canva, Figma, Illustrator  
-- *Vídeo:* CapCut  
-- *Web:* HTML, CSS, JavaScript  
-- *Outros:* Git, GitHub, VS Code  
 
 ---
 
