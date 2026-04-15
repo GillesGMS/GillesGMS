@@ -23,12 +23,12 @@
 
 ## 🧠 Ferramentas & Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=photoshop,github" />
+  <img src="https://skillicons.dev/icons?i=photoshop,github" alt="Photoshop e GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/capcut.png" alt="CapCut"/>
+  <img src="./imagem_2026-04-15_203405304-removebg-preview.png" alt="CapCut" width="48"/>
 </p>
 
 ---
 
 ## ✨ Frase de impacto
-> "Transformo ideias em arte, e arte em experiências - GillesGMS
+> "Transformo ideias em arte, e arte em experiências inesquecíveis." – GillesGMS
