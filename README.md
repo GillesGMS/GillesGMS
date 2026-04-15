@@ -2,7 +2,7 @@
 ### Olá 👋 Eu sou Gilles Studart
 
 <p align="center">
-  <img src="./morada_nova.jpeg" alt="Arte paisagem" width="600"/>
+  <img src="E2wUDAnLJmQN6psW9zaPJ.jpeg" alt="Arte paisagem" width="600"/>
 </p>
 
 🌟 Designer e artista apaixonado por criar experiências visuais  
