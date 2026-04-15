@@ -1,4 +1,4 @@
- 🎨 GillesGMS aqui!
+# 🎨 GillesGMS aqui!
 ### Olá 👋 Eu sou Gilles Studart
 
 🌟 Designer e artista apaixonado por criar experiências visuais  
@@ -10,19 +10,25 @@
 ---
 
 ## 📬 Contato
-- 📧 Email: contatogillesstudart@gmail.com  
-- 📸 Instagram: [@gilesstudart](https://www.instagram.com/gilesstudart)
+<p align="left">
+  <a href="mailto:contatogillesstudart@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/gilesstudart">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
 ## 🧠 Ferramentas & Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=photoshop,github" />
-  <img src="https://img.icons8.com/color/48/000000/canva.png" />
-  <img src="https://img.icons8.com/color/48/000000/capcut.png" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/capcut.png" alt="CapCut"/>
 </p>
 
 ---
 
 ## ✨ Frase de impacto
-> "Transformo ideias em arte, e arte em experiências inesquecíveis." – GillesGMS
+> "Transformo ideias em arte, e arte em experiências - GillesGMS
