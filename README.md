@@ -1,6 +1,10 @@
 # 🎨 GillesGMS aqui!
 ### Olá 👋 Eu sou Gilles Studart
 
+<p align="center">
+  <img src="./morada_nova.jpeg" alt="Arte paisagem" width="600"/>
+</p>
+
 🌟 Designer e artista apaixonado por criar experiências visuais  
 💻 Trabalho com logos, artes digitais e design gráfico  
 🎬 Editor de vídeos no CapCut  
@@ -25,7 +29,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=photoshop,github" alt="Photoshop e GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
-  <img src="./imagem_2026-04-15_203405304-removebg-preview.png" alt="CapCut" width="48"/>
 </p>
 
 ---
