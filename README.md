@@ -1,16 +1,27 @@
-# 🎨 GillesGMS aqui!
-### Olá 👋 Eu sou Gilles Studart
+# 🎨 GillesGMS
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/paint-palette.png" alt="Logo"/>
+</p>
+
+<h1 align="center">
+  <span style="color:#2ecc71; animation: fadeIn 3s infinite alternate;">
+    Gilles Studart
+  </span>
+</h1>
+
+---
 
 🌟 Designer e artista apaixonado por criar experiências visuais  
-💻 Trabalho com logos, artes digitais e design gráfico  
+💻 Logos, artes digitais e design gráfico  
 🎬 Editor de vídeos no CapCut  
-🖌️ Uso Canva e Photoshop para dar vida às ideias  
-✨ Buscando sempre inovação e perfeição nos projetos  
+🖌️ Canva e Photoshop para dar vida às ideias  
+✨ Sempre buscando inovação e perfeição  
 
 ---
 
 ## 📬 Contato
-<p align="left">
+<p align="center">
   <a href="mailto:contatogillesstudart@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
   </a>
@@ -22,13 +33,30 @@
 ---
 
 ## 🧠 Ferramentas & Skills
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=photoshop,github" alt="Photoshop e GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
-  <img src="./https://br.pinterest.com/pin/383791199525217990/" alt="CapCut" width="48"/>
 </p>
 
 ---
 
 ## ✨ Frase de impacto
-> "Transformo ideias em arte, e arte em experiências inesquecíveis." – GillesGMS
+<p align="center">
+  <span style="color:#2ecc71; font-style:italic; animation: pulse 2s infinite;">
+    "Transformo ideias em arte, e arte em experiências." – GillesGMS
+  </span>
+</p>
+
+---
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0.3; }
+  to { opacity: 1; }
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); color:#27ae60; }
+  100% { transform: scale(1); }
+}
+</style>
