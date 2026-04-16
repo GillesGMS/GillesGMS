@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">
+<p align="margin-right">
   <img src="forest.jpg" width="850"/>
 </p>
 
