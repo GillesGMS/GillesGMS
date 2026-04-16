@@ -10,7 +10,7 @@
 
 ## 🖼️ Destaque
 <p align="center">
-  <img src="Sertão Nordestino.jpeg" width="650"/>
+  <img src="morada_nova.jpeg" width="650"/>
 </p>
 
 ---
@@ -27,6 +27,27 @@
 ## 📊 Estatísticas
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=tokyonight&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesGMS&layout=compact&theme=tokyonight&title_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
+</p>
+
+---
+
+## 📈 Atividade & Dashboard
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GillesGMS&theme=tokyonight&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GillesGMS&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GillesGMS&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GillesGMS&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GillesGMS&theme=tokyonight"/>
 </p>
 
 ---
