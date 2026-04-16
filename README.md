@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=22&center=true&vCenter=true&width=600&lines=Sempre+aprendendo+e+evoluindo;Criando+experi%C3%AAncias+visuais;Design+moderno+e+criativo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0B3D2E&size=22&center=true&vCenter=true&width=600&lines=Sempre+aprendendo+e+evoluindo;Criando+experi%C3%AAncias+visuais;Design+moderno+e+criativo" />
 </p>
 
 ---
@@ -26,19 +26,19 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=tokyonight&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesGMS&layout=compact&theme=tokyonight&title_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=tokyonight&title_color=0B3D2E&icon_color=0B3D2E&text_color=ffffff&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesGMS&layout=compact&theme=tokyonight&title_color=0B3D2E&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
 ---
 
 ## 📈 Atividade & Dashboard
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GillesGMS&theme=tokyonight&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71"/>
+  <img src="https://streak-stats.demolab.com?user=GillesGMS&theme=tokyonight&ring=0B3D2E&fire=0B3D2E&currStreakLabel=0B3D2E"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GillesGMS&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GillesGMS&bg_color=0d1117&color=0B3D2E&line=0B3D2E&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@
 
 ## 💡 Frase
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=18&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+arte;Arte+que+vira+experiência" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0B3D2E&size=18&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+arte;Arte+que+vira+experiência" />
 </p>
 
 ---
