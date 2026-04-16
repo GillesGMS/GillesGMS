@@ -15,10 +15,10 @@
 ---
 
 ## 👨‍💻 Sobre mim
-🌲 Designer focado em experiências visuais  
+🎨 Designer focado em experiências visuais  
 💻 Criação de logos, artes digitais e identidade visual  
 🎬 Editor de vídeos (CapCut)  
-🖌️ Canva + Photoshop  
+🖌️ Canva + Photoshop + Illustrator
 ✨ Evoluindo sempre no design  
 
 ---
