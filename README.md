@@ -56,6 +56,11 @@
 <a href="https://github.com/GillesGMS">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<br><br>
+<a href="https://wa.me/5585998141173">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
  </td>
       <td>
         <img src="eu_8bit.png" width="450"/>
