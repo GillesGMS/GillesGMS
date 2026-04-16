@@ -24,7 +24,6 @@
 ---
 
 ## 📊 Estatísticas
-## 📊 Estatísticas
 <p align="center">
   <table>
     <tr>
@@ -32,11 +31,7 @@
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=tokyonight&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
       </td>
       <td>
-        <ul>
-          <li><b>888</b> Contribuições totais (desde 22/09/2016)</li>
-          <li><b>🔥 1</b> Streak atual</li>
-          <li><b>145</b> Maior streak (09/01 – 02/06)</li>
-        </ul>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GillesGMS&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=2ecc71&ring=2ecc71&currStreakLabel=2ecc71&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
       </td>
     </tr>
   </table>
