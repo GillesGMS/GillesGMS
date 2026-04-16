@@ -8,7 +8,6 @@
 
 ---
 
-
 <p align="center">
   <img src="forest.jpg" width="850"/>
 </p>
@@ -41,12 +40,21 @@
 
 ## 🌐 Contato
 <p align="center">
-  <a href="mailto:contatogillesstudart@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/gilesstudart">
-    <img src="https://img.shields.io/badge/Instagram-0B3D2E?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="mailto:contatogillesstudart@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+        <a href="https://www.instagram.com/gilesstudart">
+          <img src="https://img.shields.io/badge/Instagram-0B3D2E?style=for-the-badge&logo=instagram&logoColor=white"/>
+        </a>
+      </td>
+      <td>
+        <img src="eu_8bit.png" width="120"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
