@@ -32,7 +32,7 @@
 
 ## ⚡ Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,github"/>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,github"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png"/>
 </p>
 
