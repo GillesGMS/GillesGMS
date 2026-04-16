@@ -40,14 +40,14 @@
 
 ## 🌐 Contato
 <p align="center">
-  <table>
+  <table style="background-color:#0B3D2E; border-radius:12px; padding:15px;">
     <tr>
       <td>
         <a href="mailto:contatogillesstudart@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=0B3D2E"/>
         </a>
         <a href="https://www.instagram.com/gilesstudart">
-          <img src="https://img.shields.io/badge/Instagram-0B3D2E?style=for-the-badge&logo=instagram&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=0B3D2E"/>
         </a>
       </td>
       <td>
