@@ -10,7 +10,7 @@
 
 ## 🖼️ Destaque
 <p align="center">
-  <img src="morada_nova.jpeg" width="650"/>
+  <img src="Sertão Nordestino.jpeg" width="650"/>
 </p>
 
 ---
