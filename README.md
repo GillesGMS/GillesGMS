@@ -8,9 +8,9 @@
 
 ---
 
-## 🖼️ Destaque
+
 <p align="center">
-  <img src="forest.jpg" width="650"/>
+  <img src="forest.jpg" width="850"/>
 </p>
 
 ---
