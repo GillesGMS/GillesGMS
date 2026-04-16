@@ -27,7 +27,6 @@
 ## 📊 Estatísticas
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=tokyonight&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesGMS&layout=compact&theme=tokyonight&title_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
 ---
