@@ -1,45 +1,63 @@
-# 🎨 GillesGMS aqui!
-### Olá 👋 Eu sou Gilles Studart
+<h1 align="center">🌿 GillesGMS</h1>
+<h3 align="center">Designer • Criador Visual • Editor</h3>
 
 <p align="center">
-  <img src="E2wUDAnLJmQN6psW9zaPJ.jpeg" alt="Arte paisagem" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=24&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+arte;Design+moderno+e+criativo;Sempre+evoluindo..." />
 </p>
-
-🌟 Designer e artista apaixonado por criar experiências visuais  
-💻 Trabalho com logos, artes digitais e design gráfico  
-🎬 Editor de vídeos no CapCut  
-🖌️ Uso Canva e Photoshop para dar vida às ideias  
-✨ Buscando sempre inovação e perfeição nos projetos  
 
 ---
 
-## 📬 Contato
-<p align="left">
+## 🖼️ Destaque Visual
+<p align="center">
+  <img src="morada_nova.jpeg" alt="Arte Morada Nova" width="600"/>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+🌿 Designer apaixonado por experiências visuais  
+💻 Criação de logos, artes digitais e identidade visual  
+🎬 Editor de vídeos (CapCut)  
+🖌️ Uso Canva e Photoshop  
+✨ Sempre buscando inovação  
+
+---
+
+## 📊 Estatísticas
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=tokyonight&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesGMS&layout=compact&theme=tokyonight&title_color=2ecc71&text_color=ffffff&bg_color=0d1117"/>
+</p>
+
+---
+
+## ⚡ Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,github"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png"/>
+</p>
+
+---
+
+## 🌐 Contato
+<p align="center">
   <a href="mailto:contatogillesstudart@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-2ecc71?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/gilesstudart">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-2ecc71?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Ferramentas & Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=photoshop,github" alt="Photoshop e GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva"/>
+## 💡 Frase
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=18&center=true&vCenter=true&width=600&lines=Transformo+ideias+em+arte;Arte+que+vira+experiência" />
 </p>
 
 ---
 
-## ✨ Frase de impacto
 <p align="center">
-  <svg viewBox="0 0 500 100">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          fill="#2ecc71" font-size="20" font-style="italic" font-family="Arial">
-      "Transformo ideias em arte, e arte em experiências inesquecíveis." – GillesGMS
-      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=100&section=footer"/>
 </p>
