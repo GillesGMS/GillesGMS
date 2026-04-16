@@ -51,7 +51,7 @@
         </a>
       </td>
       <td>
-        <img src="eu_8bit.png" width="550"/>
+        <img src="eu_8bit.png" width="450"/>
       </td>
     </tr>
   </table>
